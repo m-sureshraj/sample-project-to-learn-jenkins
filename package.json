@@ -1,0 +1,23 @@
+{
+  "name": "sample-project-to-learn-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-sureshraj/sample-project-to-learn-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-sureshraj/sample-project-to-learn-jenkins/issues"
+  },
+  "homepage": "https://github.com/m-sureshraj/sample-project-to-learn-jenkins#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
