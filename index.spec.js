@@ -6,6 +6,6 @@ describe('sayHello', () => {
   });
 
   it('should format string to uppercase', () => {
-    expect(upperCase('abc')).toBe('abc');
+    expect(upperCase('abc')).toBe('ABC');
   });
 });
