@@ -9,3 +9,9 @@ describe('sayHello', () => {
     expect(upperCase('abc')).toBe('ABC');
   });
 });
+
+describe('Array', () => {
+  it('should return array length', () => {
+    expect([1, 2, 3]).toHaveLength(3);
+  });
+});
