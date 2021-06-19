@@ -2,7 +2,7 @@ const { sayHello, upperCase } = require('./index');
 
 describe('sayHello', () => {
   it('should say hello', () => {
-    expect(sayHello()).toBe('Hello');
+    expect(sayHello()).toBe('Hell');
   });
 
   it('should format string to uppercase', () => {
